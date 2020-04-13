@@ -1,0 +1,7 @@
+ChromeDriver=C:\\Users\\admin\\eclipse-workspace\\Saucedemo-Cucumber-Project\\src\\test\\resources\\binaries\\chromedriver.exe
+
+firefoxDriver=C:\\Users\\admin\\eclipse-workspace\\Saucedemo-Cucumber-Project\\src\\test\\resources\\binaries\\geckodriver.exe
+
+URL=https://www.saucedemo.com/
+
+Excelpath=C:\\Users\\admin\\eclipse-workspace\\Saucedemo-Cucumber-Project\\src\\test\\resources\\xlsh\\TestData.xlsx
